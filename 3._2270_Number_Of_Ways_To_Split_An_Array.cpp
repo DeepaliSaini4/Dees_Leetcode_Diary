@@ -73,7 +73,7 @@ public:
     }
 };
 
-//------------------------------------->OPTIMAL APPROACH    TC = O(N) , SC = O(1)
+//------------------------------------>OPTIMAL APPROACH    TC = O(N) , SC = O(1)
 class Solution {
 public:
     int waysToSplitArray(vector<int>& nums) {
@@ -95,3 +95,4 @@ public:
         return count;
     }
 };
+
