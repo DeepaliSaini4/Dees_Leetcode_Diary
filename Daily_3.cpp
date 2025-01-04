@@ -1,4 +1,4 @@
-/* 2270->NUMBER OF WAYS TO SPLIT AN ARRAY
+/*  2270->NUMBER OF WAYS TO SPLIT AN ARRAY
 Q-> You are given a 0-indexed integer array nums of length n.
 
 nums contains a valid split at index i if the following are true:
