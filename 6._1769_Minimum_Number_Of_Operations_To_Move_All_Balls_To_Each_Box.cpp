@@ -5,6 +5,8 @@ Return an array answer of size n, where answer[i] is the minimum number of opera
 Each answer[i] is calculated considering the initial state of the boxes.
 */
 //--------------------------------->APPROACH - 1.  (BRUTE).       TC = O(N^2)
+#include<bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     vector<int> minOperations(string boxes) {
