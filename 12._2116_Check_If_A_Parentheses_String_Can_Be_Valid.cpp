@@ -9,7 +9,7 @@ If locked[i] is '1', you cannot change s[i].
 But if locked[i] is '0', you can change s[i] to either '(' or ')'.
 Return true if you can make s a valid parentheses string. Otherwise, return false
 */
-//------->APPROACH - 1          TC = O() ,  SC = O( )
+//-------->APPROACH - 1          TC = O() ,  SC = O( )
 #include<bits/stdc++.h>
 using namespace std;
 class Solution {
